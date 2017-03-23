@@ -57,3 +57,6 @@ body {
 	display: inline-block;
 	text-decoration: none;
 }
+ input {
+	 margin: 25px;
+}
