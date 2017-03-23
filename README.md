@@ -1,7 +1,7 @@
 ![share-image-maker](demo-screenshot.png)
 
 # Share Image Maker
-A tool simple tool for non-technical people to make share images!
+This project will pull a random image from unsplash.com, pick a complimentary color set for the background and text, and populate the Realm logo in the bottom corner. The title and subtext are editable in the browser. [Try it out!](https://pixelchef.github.io/share-image-maker/)
 
 ## Feature Roadmap
 
@@ -12,4 +12,3 @@ A tool simple tool for non-technical people to make share images!
 - [ ] Wisiwyg editor
 - [ ] Pull image and title from URL
 
-[Try it out!](https://pixelchef.github.io/share-image-maker/)
